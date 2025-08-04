@@ -1,12 +1,13 @@
 import './App.css'
-import ColorfulButton from './components/colorfulButton.jsx'
+import ColorfulButton from './components/colorfulButton/colorfulButton.jsx'
+import ExpandingSearchBar from './components/expandingSearchBar/expandingSearchBar.jsx'
+
 
 function App(){
   return (
     <>
-      <div className="App">
-        <ColorfulButton />
-      </div>
+      {/* <ColorfulButton /> */}
+      <ExpandingSearchBar /> 
     </>
   )
 }

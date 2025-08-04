@@ -1,0 +1,38 @@
+
+.srOnly {
+    position: absolute; 
+    width: 1px;
+    height: 1px;
+    padding: 0px;
+    border: 0;
+    margin: -1px;
+    overflow: hidden;
+    white-space: nowrap;
+    clip: rect(0,0,0,0);
+}
+
+.container {
+    margin: 2% 5%;
+}
+
+.search {
+    /* margin: 2% 5%; */
+    padding: 10px 2px;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 30%;
+    transition: width .5s;
+}
+
+.search:focus {
+    width: 100%;
+}
+
+.search::placeholder {
+    font-weight: 200;
+}
+
+.search:focus::placeholder {
+    color: transparent;
+}
+

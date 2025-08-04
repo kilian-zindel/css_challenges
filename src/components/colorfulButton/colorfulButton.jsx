@@ -14,8 +14,6 @@ NOTES:
 import styles from './colorfulButton.module.css';
 
 const ColorfulButton = () => {
-
-
     return (
         <div className={styles.container}>
             <div className={styles.buttonBorder}>
