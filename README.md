@@ -6,7 +6,7 @@
 - [x] Colorful Button 
 - [x] Expanding Search Bar 
 - [x] Codepen Tile 
-- [ ] Loading Animation 1
+- [x] Loading Animation 1
 - [ ] Loading Animation 2
 - [ ] Archery Target 
 - [ ] Word Carousel 

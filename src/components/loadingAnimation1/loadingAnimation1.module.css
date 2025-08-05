@@ -1,0 +1,44 @@
+
+:root {
+    --size: 50px;
+    --color: 
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: gray; */
+    max-width: 200px;
+}
+
+@keyframes pulse {
+    from {
+        background-color: darkgrey; 
+        transform: scale(1.1);
+    }
+    to {
+        background-color: grey; 
+        transform: scale(1.0)
+    }
+    /* to {background-color: lightgrey; } */
+}
+
+.container div {
+    width: var(--size);
+    height: var(--size);
+    /* background-color: black; */
+    border-radius: 100px;
+
+    /* animation-name: pulse; 
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; */
+    animation: pulse 1s alternate infinite;
+}
+
+.container div:nth-child(1) { animation-delay: -0.5s }
+.container div:nth-child(2) { animation-delay: -0.25s }
+.container div:nth-child(3) { animation-delay: 0s }
+
+

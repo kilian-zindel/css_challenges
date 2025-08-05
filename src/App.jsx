@@ -2,6 +2,7 @@ import './App.css'
 import ColorfulButton from './components/colorfulButton/colorfulButton.jsx'
 import ExpandingSearchBar from './components/expandingSearchBar/expandingSearchBar.jsx'
 import CodePenTile from './components/codePenTile/codePenTile.jsx'
+import LoadingAnimation1 from './components/loadingAnimation1/loadingAnimation1.jsx'
 
 function App(){
   return (
@@ -31,7 +32,11 @@ function App(){
       <p>I modified this one a bit...I wanted to show my favorite soccer player Lamine Yamal.</p>
       <CodePenTile /> 
 
-      
+      <h3>4. Loading Animation 1</h3>
+      <p>This Challenge taught me how to use animations!</p>
+      <LoadingAnimation1 /> 
+
+
     </div>
   )
 }
