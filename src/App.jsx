@@ -3,6 +3,7 @@ import ColorfulButton from './components/colorfulButton/colorfulButton.jsx'
 import ExpandingSearchBar from './components/expandingSearchBar/expandingSearchBar.jsx'
 import CodePenTile from './components/codePenTile/codePenTile.jsx'
 import LoadingAnimation1 from './components/loadingAnimation1/loadingAnimation1.jsx'
+import LoadingAnimation2 from './components/loadingAnimation2/loadingAnimation2.jsx'
 
 function App(){
   return (
@@ -36,6 +37,9 @@ function App(){
       <p>This Challenge taught me how to use animations!</p>
       <LoadingAnimation1 /> 
 
+      <h3>5. Loading Animation 2</h3>
+      <p>Another cool loading animation with more transforms.</p>
+      <LoadingAnimation2 /> 
 
     </div>
   )

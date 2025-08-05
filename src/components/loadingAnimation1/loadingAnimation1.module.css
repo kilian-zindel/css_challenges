@@ -9,16 +9,18 @@
     align-items: center;
     justify-content: space-between;
     /* background-color: gray; */
-    max-width: 200px;
+    max-width: 160px;
 }
 
 @keyframes pulse {
     from {
-        background-color: darkgrey; 
+        background-color: darkslategrey; 
+        opacity: 0.9;
         transform: scale(1.1);
     }
     to {
-        background-color: grey; 
+        background-color: black; 
+        opacity: 0.85;
         transform: scale(1.0)
     }
     /* to {background-color: lightgrey; } */

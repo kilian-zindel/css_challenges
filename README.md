@@ -7,7 +7,7 @@
 - [x] Expanding Search Bar 
 - [x] Codepen Tile 
 - [x] Loading Animation 1
-- [ ] Loading Animation 2
+- [x] Loading Animation 2
 - [ ] Archery Target 
 - [ ] Word Carousel 
 - [ ] Flag of France (skip) 
