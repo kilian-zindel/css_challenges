@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.card {
+    background-color: #2a2b34;
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.cardThumbnail img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.cardBody {
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+}
+
+.cardAvatar {
+    width: 20%;
+}
+
+.cardAvatar img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.cardDetails {
+    /* display: flex;
+    flex-direction: column; */
+    padding: 10px;
+    padding-top: 0;
+}
+
+.cardDetails h3 {
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 24px;
+    color: white;
+}
+
+.cardDetails p {
+    padding: 0;
+    margin: 0;
+    margin-top: 3px;
+    font-family: "Roboto";
+    font-size: 16px;
+    color: lightgray;
+}
+
+.cardStats {
+    display: flex; 
+    margin: none; 
+    padding: none;
+    list-style-type: none;
+}
+
+.likes {
+    background-color: #1d1e24;
+    margin: 8px 8px 0px 0px;
+    padding: 2px 8px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+.likes p {
+    margin: 3px;
+    color: white;
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 16px;
+}
+

@@ -5,17 +5,17 @@
 ### PROGRESS
 - [x] Colorful Button 
 - [x] Expanding Search Bar 
-- [ ] Codepen Tile 
+- [x] Codepen Tile 
 - [ ] Loading Animation 1
 - [ ] Loading Animation 2
 - [ ] Archery Target 
 - [ ] Word Carousel 
-- [ ] Flag of France 
-- [ ] Flag of Germany 
+- [ ] Flag of France (skip) 
+- [ ] Flag of Germany (skip) 
 - [ ] Flag of Madagascar 
 - [ ] Flag of Switzerland 
-- [ ] Flag of Japan 
-- [ ] Flag of Sweden 
+- [ ] Flag of Japan (skip) 
+- [ ] Flag of Sweden (skip) 
 - [ ] Flag of Niger 
 - [ ] Github Profile Layout 
 - [ ] Toggle Switch 
