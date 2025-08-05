@@ -1,0 +1,27 @@
+
+.text {
+    font-family: "Roboto", "Sans-serif";
+    letter-spacing: 0.03em;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+@keyframes swap {
+    0% { content: "cats"; }
+    25% { content: "CSS"; }
+    50% { content: "coding"; }
+    75% { content: "coffee"; }
+    100% {content: "cats";}
+}
+
+.text::after {
+    animation: swap 5s infinite;
+    content: "cats";
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+

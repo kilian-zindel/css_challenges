@@ -8,7 +8,7 @@
 - [x] Codepen Tile 
 - [x] Loading Animation 1
 - [x] Loading Animation 2
-- [ ] Archery Target 
+- [x] Archery Target 
 - [ ] Word Carousel 
 - [ ] Flag of France (skip) 
 - [ ] Flag of Germany (skip) 
