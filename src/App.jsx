@@ -4,6 +4,7 @@ import ExpandingSearchBar from './components/expandingSearchBar/expandingSearchB
 import CodePenTile from './components/codePenTile/codePenTile.jsx'
 import LoadingAnimation1 from './components/loadingAnimation1/loadingAnimation1.jsx'
 import LoadingAnimation2 from './components/loadingAnimation2/loadingAnimation2.jsx'
+import ArcheryTarget from './components/archeryTarget/archeryTarget.jsx'
 
 function App(){
   return (
@@ -40,6 +41,10 @@ function App(){
       <h3>5. Loading Animation 2</h3>
       <p>Another cool loading animation with more transforms.</p>
       <LoadingAnimation2 /> 
+
+      <h3>6. Archery Target</h3>
+      {/* <p>Another cool loading animation with more transforms.</p> */}
+      <ArcheryTarget /> 
 
     </div>
   )
