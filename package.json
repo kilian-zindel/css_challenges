@@ -1,16 +1,16 @@
 {
   "name": "css-challenges",
   "private": true,
-  "homepage": "https://kilian-zindel.github.io/css-challenges",
+  "homepage": "https://kilian-zindel.github.io/css_challenges/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
