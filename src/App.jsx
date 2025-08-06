@@ -6,6 +6,7 @@ import LoadingAnimation1 from './components/loadingAnimation1/loadingAnimation1.
 import LoadingAnimation2 from './components/loadingAnimation2/loadingAnimation2.jsx'
 import ArcheryTarget from './components/archeryTarget/archeryTarget.jsx'
 import WordCarousel from './components/wordCarousel/wordCarousel.jsx'
+import SwissFlag from './components/swissFlag/swissFlag.jsx'
 
 function App(){
   return (
@@ -49,6 +50,10 @@ function App(){
 
       <h3>7. Word Carousel</h3>
       <WordCarousel />
+
+      <h3>8. Swiss Flag</h3>
+      <p>made with CSS grid!</p> 
+      <SwissFlag />
     </div>
   )
 }
