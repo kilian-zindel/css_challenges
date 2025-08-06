@@ -20,7 +20,7 @@ I completed all of these on my own, and then referenced the solution in the vide
 - [x] Flag of Switzerland 
 - [ ] Flag of Japan (skip) 
 - [ ] Flag of Sweden (skip) 
-- [ ] Flag of Niger 
+- [x] Flag of Niger 
 - [ ] Github Profile Layout 
 - [ ] Toggle Switch 
 - [ ] Playing Card - Ace of Spades 

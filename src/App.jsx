@@ -7,6 +7,7 @@ import LoadingAnimation2 from './components/loadingAnimation2/loadingAnimation2.
 import ArcheryTarget from './components/archeryTarget/archeryTarget.jsx'
 import WordCarousel from './components/wordCarousel/wordCarousel.jsx'
 import SwissFlag from './components/swissFlag/swissFlag.jsx'
+import NigerFlag from './components/nigerFlag/nigerFlag.jsx'
 
 function App(){
   return (
@@ -45,15 +46,21 @@ function App(){
       <LoadingAnimation2 /> 
 
       <h3>6. Archery Target</h3>
-      {/* <p>Another cool loading animation with more transforms.</p> */}
+      <p>stacking divs</p>
       <ArcheryTarget /> 
 
       <h3>7. Word Carousel</h3>
+      <p>finally learned what ::after is for.</p>
       <WordCarousel />
 
       <h3>8. Swiss Flag</h3>
       <p>made with CSS grid!</p> 
       <SwissFlag />
+
+      <h3>8. Niger Flag</h3>
+      <p>made with CSS flexbox</p> 
+      <NigerFlag />
+
     </div>
   )
 }

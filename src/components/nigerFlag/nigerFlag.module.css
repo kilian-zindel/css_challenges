@@ -1,0 +1,33 @@
+
+.container {
+    background-color: white;
+    width: 187px;
+    height: 160px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.orangeStripe {
+    width: 100%;
+    height: 33%; 
+    background-color: #e15307;
+}
+
+.circle {
+    height: 45px;
+    width: 45px;
+    background-color: #e15307;
+    border-radius: 45px;
+}
+
+.greenStripe {
+    width: 100%;
+    height: 33%; 
+    background-color: #10af2a;
+}
+
+
+
