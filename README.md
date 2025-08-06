@@ -9,7 +9,7 @@
 - [x] Loading Animation 1
 - [x] Loading Animation 2
 - [x] Archery Target 
-- [ ] Word Carousel 
+- [x] Word Carousel 
 - [ ] Flag of France (skip) 
 - [ ] Flag of Germany (skip) 
 - [ ] Flag of Madagascar 
