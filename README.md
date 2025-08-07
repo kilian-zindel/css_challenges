@@ -14,14 +14,14 @@ I completed all of these on my own, and then referenced the solution in the vide
 - [x] Loading Animation 2
 - [x] Archery Target 
 - [x] Word Carousel 
-- [ ] Flag of France (skip) 
-- [ ] Flag of Germany (skip) 
-- [ ] Flag of Madagascar (skip)
+- [ ] Flag of France (skipped) 
+- [ ] Flag of Germany (skipped) 
+- [ ] Flag of Madagascar (skipped)
 - [x] Flag of Switzerland 
-- [ ] Flag of Japan (skip) 
-- [ ] Flag of Sweden (skip) 
+- [ ] Flag of Japan (skipped) 
+- [ ] Flag of Sweden (skipped) 
 - [x] Flag of Niger 
-- [ ] Github Profile Layout 
+- [x] Github Profile Layout 
 - [ ] Toggle Switch 
 - [ ] Playing Card - Ace of Spades 
 - [ ] Playing Card - Four of Hearts 

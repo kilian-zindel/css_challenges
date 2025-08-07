@@ -8,6 +8,7 @@ import ArcheryTarget from './components/archeryTarget/archeryTarget.jsx'
 import WordCarousel from './components/wordCarousel/wordCarousel.jsx'
 import SwissFlag from './components/swissFlag/swissFlag.jsx'
 import NigerFlag from './components/nigerFlag/nigerFlag.jsx'
+import GithubProfileLayout from './components/githubProfileLayout/githubProfileLayout.jsx'
 
 function App(){
   return (
@@ -60,6 +61,10 @@ function App(){
       <h3>8. Niger Flag</h3>
       <p>made with CSS flexbox</p> 
       <NigerFlag />
+
+      <h3>Github Profile Layout</h3>
+      <p></p>
+      <GithubProfileLayout />
 
     </div>
   )
